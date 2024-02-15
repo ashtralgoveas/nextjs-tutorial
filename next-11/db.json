@@ -1,0 +1,67 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "title": "Wave hello! 👋",
+      "completed": false,
+      "id": "1"
+    },
+    {
+      "userId": 1,
+      "title": "Get Coffee ☕☕☕",
+      "completed": false,
+      "id": "2"
+    },
+    {
+      "userId": 1,
+      "title": "Go to Work ⚒",
+      "completed": false,
+      "id": "3"
+    },
+    {
+      "userId": 1,
+      "title": "Write Code 💻",
+      "id": "4",
+      "completed": false
+    },
+    {
+      "id": "c857",
+      "userId": 1,
+      "title": "hi"
+    },
+    {
+      "id": "c59f",
+      "userId": 1,
+      "title": "heelo",
+      "completed": true
+    },
+    {
+      "id": "80ff",
+      "userId": 1,
+      "title": "hiiiii"
+    },
+    {
+      "id": "2b14",
+      "userId": 1,
+      "title": "hello",
+      "completed": true
+    },
+    {
+      "id": "d638",
+      "userId": 1,
+      "title": "hiiiiiiiiiiiiiiiiiiiiiiiii",
+      "completed": true
+    },
+    {
+      "id": "f945",
+      "userId": 1,
+      "title": "hiii",
+      "completed": false
+    },
+    {
+      "id": "0f17",
+      "userId": 1,
+      "title": "tieas"
+    }
+  ]
+}
